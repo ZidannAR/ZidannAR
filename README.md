@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/7hW7hXXri33NK/giphy.gif?cid=ecf05e47zvd10a5jgt0uo5jrn26wndvfu7ksegduyej94vdm&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/7hW7hXXri33NK/giphy.gif?cid=ecf05e47zvd10a5jgt0uo5jrn26wndvfu7ksegduyej94vdm&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/ziiidd_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
