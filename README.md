@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/49/aa/8d/49aa8d7bf31909b39412c26762fce7b7.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/49/aa/8d/49aa8d7bf31909b39412c26762fce7b7.gif"  />
 </div>
 <h2 align="center">ZidanAR</h2>
 
