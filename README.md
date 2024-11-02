@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is zidan and I'm a student, from smakzie</h2>
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/49/aa/8d/49aa8d7bf31909b39412c26762fce7b7.gif"  />
+</div>
+<h2 align="center">ZidanAR</h2>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/7hW7hXXri33NK/giphy.gif?cid=ecf05e47zvd10a5jgt0uo5jrn26wndvfu7ksegduyej94vdm&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
+
 
 ###
 
