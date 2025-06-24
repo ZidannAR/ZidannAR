@@ -1,12 +1,10 @@
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/49/aa/8d/49aa8d7bf31909b39412c26762fce7b7.gif"  />
+  <img height="500" src="https://i.pinimg.com/originals/49/aa/8d/49aa8d7bf31909b39412c26762fce7b7.gif"  />
 </div>
-<h2 align="center">ZidanAR</h2>
 
 ###
 
-
-
+<p align="center">ZidanAR</p>
 
 ###
 
@@ -24,6 +22,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
 ###
@@ -45,5 +53,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qtgt6ze7jjr7gexdunhggpovhm&count=3" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+
 
 ###
